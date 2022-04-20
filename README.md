@@ -1,24 +1,4 @@
 # demo-toutiao
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+项目是基于Vue2的头条项目
+使用的组件是vant2.0版本
+组件化开发，使用eslint规范代码格式
